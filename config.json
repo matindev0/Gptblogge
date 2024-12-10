@@ -1,0 +1,11 @@
+{
+  "database": {
+    "options": {
+      "useNewUrlParser": true,
+      "useUnifiedTopology": true
+    }
+  },
+  "session": {
+    "cookieMaxAge": 86400000
+  }
+}
